@@ -1,0 +1,46 @@
+_repo: With-the-World-s-Great-Travellers-Volume-4_43745
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43745-h/images/cover.jpg
+creator:
+  editors:
+  - agent_name: Leigh, Oliver Herbrand Gordon
+    alias: Leigh, Oliver H. G.
+    gutenberg_agent_id: '37847'
+    url: http://www.gutenberg.org/2009/agents/37847
+  - agent_name: Morris, Charles
+    birthdate: 1833
+    deathdate: 1922
+    gutenberg_agent_id: '656'
+    url: http://www.gutenberg.org/2009/agents/656
+description: ''
+gutenberg_issued: '2013-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Voyages and travels'
+tableOfContents: Paris, Amsterdam / Oliver H. G. Leigh -- Florence and its Art Treasures
+  / Sarah J. Lippincott -- The Lake Region of Italy / Robert A. McLeod -- A Day in
+  Rome / Bayard Taylor -- Pompeii and its Destroyer / Alfred E. Lee -- Mount Etna
+  in Eruption / Bayard Taylor -- Plebeian Life in Venice / Horace St. John -- Athens
+  and its Temples / J. L. T. Phillips -- The Isles of Greece / Henry M. Field -- The
+  Seraglio on the Golden Horn / Edward Daniel Clarke -- Zermatt and its Scenery /
+  Stanley Hope -- Alpine Mountain Climbing / Edward Whymper -- A Typical Dutch City
+  / Edmondo de Amicis -- Antwerp and its People / Rose G. Kingsley -- Art Museums
+  of Dresden / Elizabeth Peake -- The Students of Heidelberg / Bayard Taylor -- The
+  Streets of Berlin / Matthew Woods -- A Ramble in Prussia / Stephen Powers -- The
+  Salt-Mines of Wieliczka / J. Ross Browne -- The Jumping Procession of Echternach
+  / M. Ogle -- The Capital of Austria / John Russell -- The Esterházy Palaces / John
+  Paget -- From Hamburg to Stockholm / Mrs. Andrew Crosse -- The Midnight Sun / Langley
+  Coleridge -- In the Russian Capital / Samuel S. Cox -- A Visit to Finland / David
+  Ker -- Moscow in 1800 / Edward Daniel Clarke -- A Russian Sleigh Journey / Frederick
+  Burnaby.
+title: With the World's Great Travellers, Volume 4
+url: http://www.gutenberg.org/ebooks/43745
